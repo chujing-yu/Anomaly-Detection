@@ -1,2 +1,2 @@
 # Anomaly-Detection
-Use two dataset: KDD, WADI
+Use two datasets: KDD, WADI
